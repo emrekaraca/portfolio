@@ -3,54 +3,54 @@
     <header class="section">
       <h1 class="title">Hi there!</h1>
       <p class="text">
-        My name is Emre and I am an aspiring web developer who has been 
-        teaching himself how to code since the spring of 2016. 
+        My name is Emre and I am a Berlin-based web developer.
       </p>
     </header>
     <main class="section">
       <div class="col">
         <h2 class="subtitle">ABOUT ME</h2>
         <p>
-          I am a Master student in Social Sciences at Humboldt University Berlin 
-          and I am about to finish my studies in the summer of 2018. Apart from my passion for coding, I 
+          I am a Master student in Social Sciences at Humboldt University Berlin
+          and I am currently in the process of finishing my studies. Apart from my passion for coding, I
           love anything DIY, cooking great food, traveling and working out regularly.
         </p>
-        <p> 
-          Already since I was a teenager I have always 
-          played around with the web, building some simple projects and setting up simple Wordpress 
-          or Joomla systems. In the spring of 2016 I decided to go all in on coding and I have not 
+        <p>
+          Already since I was a teenager I have always
+          played around with the web, building some simple projects and setting up simple Wordpress
+          or Joomla systems. In the spring of 2016 I decided to go all in on coding and I have not
           looked back since!
         </p>
       </div>
       <div class="col">
         <h2 class="subtitle">MY LEARNING JOURNEY</h2>
         <p>
-          I started out with lots of tutorials and after one year I was able to do a 6-month  
-          internship at the Copenhagen-based consulting company <a href="http://ogtal.dk" class="text-link">
-          <b>Analyse & Tal</b></a>. Here I introduced the use of frontend libraries (Vue) and 
+          I started out with lots of tutorials and after one year I was able to do a 6-month
+          internship at the Copenhagen-based data-consulting company <a href="http://ogtal.dk" class="text-link">
+            <b>Analyse & Tal</b></a>. Here I introduced the use of frontend libraries (VueJS) and
           worked independently on a large experimental data-science project called <a href="https://likeview.surge.sh" class="text-link"><b>LikeView</b></a>.
         </p>
+        <p>Over the summer of 2018 I worked as a freelancer on a project with <a href="http://ogtal.dk" class="text-link">
+            <b>Analyse & Tal</b></a>. In this project, which was funded by the Google-DNI, we analyzed 8 years of data from the Danish parliament and made it accessible for the general public. I was the lead frontend developer responsible for the creation of <a href="https://kendditfolketing.dk" class="text-link"><b>Kend Dit Folketing</b></a>. The project was built with VueJS.</p>
         <p>
-          I have been privileged to attend a number of conferences, in part through helping as a volunteer or receiving a scholarship. 
-          All of these conferences have been extraordinary experiences that have helped me a lot on my journey. In the past year I have attended 
-          the following conferences: <span style="font-style: italic">Fullstack London 2017, Coldfront Copenhagen 2017, JSConf Budapest 2017, CSSconf EU 2018, 
-          JSconf EU 2018, Fullstack London 2018.</span>
+          I have been privileged to attend a number of conferences, in part through helping as a volunteer or receiving a scholarship.
+          All of these conferences have been extraordinary experiences that have helped me a lot on my journey. In the past year I have attended
+          the following conferences: <span style="font-style: italic">Fullstack London 2017, Coldfront Copenhagen 2017, JSConf Budapest 2017, CSSconf and JSconf EU 2018, Vue London 2018, VueJS Roadtrip Berlin 2018.</span>
         </p>
 
       </div>
       <div class="col">
         <h2 class="subtitle">TECHNOLOGIES</h2>
         <p><b>Core: </b>HTML/CSS, Javascript</p>
-        <p><b>Frontend: </b> Vue, Nuxt, React</p>
+        <p><b>Frontend: </b> VueJS, Nuxt, React, Gatsby, Apollo</p>
         <p><b>Backend: </b> Node/Express</p>
         <p><b>DB: </b> MongoDB, GraphQL</p>
         <p><b>Cloud: </b>Netlify, Heroku, Google Cloud, AWS</p>
-        <p><b>Others: </b>D3.js, Sketch</p>
+        <p><b>Others: </b>D3.js, Sketch/Figma</p>
       </div>
       <div class="col">
         <h2 class="subtitle">GET IN TOUCH</h2>
         <div class="logo-container">
-          <a href="mailto:creagas@googlemail.com" target="blank">
+          <a href="mailto:hi@emrekaraca.de" target="blank">
             <img src="@/assets/email.svg" alt="" class="logo">
           </a>
           <a href="https://twitter.com/HiEmreKaraca" target="blank">
