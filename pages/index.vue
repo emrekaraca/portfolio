@@ -41,7 +41,7 @@
       <div class="col">
         <h2 class="subtitle">TECHNOLOGIES</h2>
         <p><b>Core: </b>HTML/CSS, Javascript</p>
-        <p><b>Frontend: </b> VueJS, Nuxt, React, Gatsby, Apollo</p>
+        <p><b>Frontend: </b> VueJS, Vuex, Nuxt, React, Gatsby, Apollo</p>
         <p><b>Backend: </b> Node/Express</p>
         <p><b>DB: </b> MongoDB, GraphQL</p>
         <p><b>Cloud: </b>Netlify, Heroku, Google Cloud, AWS</p>
