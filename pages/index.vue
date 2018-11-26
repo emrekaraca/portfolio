@@ -10,31 +10,32 @@
       <div class="col">
         <h2 class="subtitle">ABOUT ME</h2>
         <p>
-          I am a Master student in Social Sciences at Humboldt University Berlin
-          and I am currently in the process of finishing my studies. Apart from my passion for coding, I
+          Apart from being a web developer, I am also a Master student in Social Sciences at Humboldt University Berlin.
+          Currently, I am in the process of finishing my studies and I will be completely done by the end of 2018. Apart from my passion for coding, I
           love anything DIY, cooking great food, traveling and working out regularly.
         </p>
         <p>
           Already since I was a teenager I have always
-          played around with the web, building some simple projects and setting up simple Wordpress
+          played around with the web, building some simple projects and setting up Wordpress
           or Joomla systems. In the spring of 2016 I decided to go all in on coding and I have not
           looked back since!
         </p>
+        <p>Apart from studying and coding, I have worked a variety of jobs over the past years. A major focus has been the field of youth education, where I have continuously worked with groups of children and teenagers for 10 years. During this time, I have facilitated pedagocial programs at the <a href="https://annefrank.de" class="text-link">Anne Frank Zentrum Berlin</a> and as part of the project <a href="https://dialogmachtschule.de/" class="text-link">Dialog Macht Schule</a> at several schools with special challenges in Neukölln, Wedding and Moabit. These experiences have thaught me many invaluable skills.</p>
       </div>
       <div class="col">
-        <h2 class="subtitle">MY LEARNING JOURNEY</h2>
+        <h2 class="subtitle">MY JOURNEY</h2>
         <p>
           I started out with lots of tutorials and after one year I was able to do a 6-month
           internship at the Copenhagen-based data-consulting company <a href="http://ogtal.dk" class="text-link">
-            <b>Analyse & Tal</b></a>. Here I introduced the use of frontend libraries (VueJS) and
-          worked independently on a large experimental data-science project called <a href="https://likeview.surge.sh" class="text-link"><b>LikeView</b></a>.
+            Analyse & Tal</a>. Here I introduced the use of a modern frontend framework (VueJS) and
+          worked independently on a large experimental data-science project called <a href="https://likeview.surge.sh" class="text-link">LikeView</a>.
         </p>
         <p>Over the summer of 2018 I worked as a freelancer on a project with <a href="http://ogtal.dk" class="text-link">
-            <b>Analyse & Tal</b></a>. In this project, which was funded by the Google-DNI, we analyzed 8 years of data from the Danish parliament and made it accessible for the general public. I was the lead frontend developer responsible for the creation of <a href="https://kendditfolketing.dk" class="text-link"><b>Kend Dit Folketing</b></a>. The project was built with VueJS.</p>
+            Analyse & Tal</a>. In this project, which was funded by the Google-DNI, we analyzed 8 years of data from the Danish parliament and made it accessible for the general public. I was the lead frontend developer responsible for the creation of <a href="https://kendditfolketing.dk" class="text-link">Kend Dit Folketing</a>. The project was built with VueJS.</p>
         <p>
           I have been privileged to attend a number of conferences, in part through helping as a volunteer or receiving a scholarship.
           All of these conferences have been extraordinary experiences that have helped me a lot on my journey. In the past year I have attended
-          the following conferences: <span style="font-style: italic">Fullstack London 2017, Coldfront Copenhagen 2017, JSConf Budapest 2017, CSSconf and JSconf EU 2018, Vue London 2018, VueJS Roadtrip Berlin 2018.</span>
+          the following conferences: <span style="font-style: italic">Fullstack London 2017, Coldfront Copenhagen 2017, JSConf Budapest 2017, CSSconf and JSconf EU 2018, Vue London 2018, VueJS Roadtrip Berlin 2018.</span> Naturally, mere conference attendance has no say about actual skill level. But it definitely reflects my unbound curiousity and motivation to keep up with the latest developments in the field.
         </p>
 
       </div>
@@ -153,5 +154,6 @@ p {
 .text-link {
   color: black;
   text-decoration: none;
+  font-weight: 700;
 }
 </style>
