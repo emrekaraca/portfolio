@@ -20,18 +20,18 @@
           or Joomla systems. In the spring of 2016 I decided to go all in on coding and I have not
           looked back since!
         </p>
-        <p>Apart from studying and coding, I have worked a variety of jobs over the past years. A major focus has been the field of youth education, where I have continuously worked with groups of children and teenagers for 10 years. During this time, I have facilitated pedagocial programs at the <a href="https://annefrank.de" class="text-link">Anne Frank Zentrum Berlin</a> and as part of the project <a href="https://dialogmachtschule.de/" class="text-link">Dialog Macht Schule</a> at several schools with special challenges in Neukölln, Wedding and Moabit. These experiences have thaught me many invaluable skills.</p>
+        <p>Apart from studying and coding, I have worked a variety of jobs over the past years. A major focus has been the field of youth education, where I have continuously worked with groups of children and teenagers for 10 years. During this time, I have facilitated pedagocial programs at the <a href="https://annefrank.de" target="blank" class="text-link">Anne Frank Zentrum Berlin</a> and as part of the project <a href="https://dialogmachtschule.de/" target="blank" class="text-link">Dialog Macht Schule</a> at several schools with special challenges in Neukölln, Wedding and Moabit. These experiences have thaught me many invaluable skills.</p>
       </div>
       <div class="col">
         <h2 class="subtitle">MY JOURNEY</h2>
         <p>
           I started out with lots of tutorials and after one year I was able to do a 6-month
-          internship at the Copenhagen-based data-consulting company <a href="http://ogtal.dk" class="text-link">
+          internship at the Copenhagen-based data-consulting company <a href="http://ogtal.dk" target="blank" class="text-link">
             Analyse & Tal</a>. Here I introduced the use of a modern frontend framework (VueJS) and
-          worked independently on a large experimental data-science project called <a href="https://likeview.surge.sh" class="text-link">LikeView</a>.
+          worked independently on a large experimental data-science project called <a href="https://likeview.surge.sh" target="blank" class="text-link">LikeView</a>.
         </p>
-        <p>Over the summer of 2018 I worked as a freelancer on a project with <a href="http://ogtal.dk" class="text-link">
-            Analyse & Tal</a>. In this project, which was funded by the Google-DNI, we analyzed 8 years of data from the Danish parliament and made it accessible for the general public. I was the lead frontend developer responsible for the creation of <a href="https://kendditfolketing.dk" class="text-link">Kend Dit Folketing</a>. The project was built with VueJS.</p>
+        <p>Over the summer of 2018 I worked as a freelancer on a project with <a href="http://ogtal.dk" target="blank" class="text-link">
+            Analyse & Tal</a>. In this project, which was funded by the Google-DNI, we analyzed 8 years of data from the Danish parliament and made it accessible for the general public. I was the lead frontend developer responsible for the creation of <a href="https://kendditfolketing.dk" target="blank" class="text-link">Kend Dit Folketing</a>. The project was built with VueJS.</p>
         <p>
           I have been privileged to attend a number of conferences, in part through helping as a volunteer or receiving a scholarship.
           All of these conferences have been extraordinary experiences that have helped me a lot on my journey. In the past year I have attended
