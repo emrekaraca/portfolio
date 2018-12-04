@@ -20,23 +20,52 @@
           or Joomla systems. In the spring of 2016 I decided to go all in on coding and I have not
           looked back since!
         </p>
-        <p>Apart from studying and coding, I have worked a variety of jobs over the past years. A major focus has been the field of youth education, where I have continuously worked with groups of children and teenagers for 10 years. During this time, I have facilitated pedagocial programs at the <a href="https://annefrank.de" target="blank" class="text-link">Anne Frank Zentrum Berlin</a> and as part of the project <a href="https://dialogmachtschule.de/" target="blank" class="text-link">Dialog Macht Schule</a> at several schools with special challenges in Neukölln, Wedding and Moabit. These experiences have thaught me many invaluable skills.</p>
+        <p>Apart from studying and coding, I have worked a variety of jobs over the past years. A major focus has been the field of youth education, where I have continuously worked with groups of children and teenagers for 10 years. During this time, I have facilitated pedagocial programs at the <a
+            href="https://annefrank.de"
+            target="blank"
+            class="text-link"
+          >Anne Frank Zentrum Berlin</a> and as part of the project <a
+            href="https://dialogmachtschule.de/"
+            target="blank"
+            class="text-link"
+          >Dialog Macht Schule</a> at several schools with special challenges in Neukölln, Wedding and Moabit. These experiences have thaught me many invaluable skills.</p>
       </div>
       <div class="col">
         <h2 class="subtitle">MY JOURNEY</h2>
         <p>
           I started out with lots of tutorials and after one year I was able to do a 6-month
-          internship at the Copenhagen-based data-consulting company <a href="http://ogtal.dk" target="blank" class="text-link">
+          internship at the Copenhagen-based data-consulting company <a
+            href="http://ogtal.dk"
+            target="blank"
+            class="text-link"
+          >
             Analyse & Tal</a>. Here I introduced the use of a modern frontend framework (VueJS) and
-          worked independently on a large experimental data-science project called <a href="https://likeview.surge.sh" target="blank" class="text-link">LikeView</a>.
+          worked independently on a large experimental data-science project called <a
+            href="https://likeview.surge.sh"
+            target="blank"
+            class="text-link"
+          >LikeView</a>.
         </p>
-        <p>Over the summer of 2018 I worked as a freelancer on a project with <a href="http://ogtal.dk" target="blank" class="text-link">
-            Analyse & Tal</a>. In this project, which was funded by the Google-DNI, we analyzed 8 years of data from the Danish parliament and made it accessible for the general public. I was the lead frontend developer responsible for the creation of <a href="https://kendditfolketing.dk" target="blank" class="text-link">Kend Dit Folketing</a>. The project was built with VueJS.</p>
+        <p>Over the summer of 2018 I worked as a freelancer on a project with <a
+            href="http://ogtal.dk"
+            target="blank"
+            class="text-link"
+          >
+            Analyse & Tal</a>. In this project, which was funded by the Google-DNI, we analyzed 8 years of data from the Danish parliament and made it accessible for the general public. I was the lead frontend developer responsible for the creation of <a
+            href="https://kendditfolketing.dk"
+            target="blank"
+            class="text-link"
+          >Kend Dit Folketing</a>. The project was built with VueJS.</p>
         <p>
           I have been privileged to attend a number of conferences, in part through helping as a volunteer or receiving a scholarship.
           All of these conferences have been extraordinary experiences that have helped me a lot on my journey. In the past year I have attended
           the following conferences: <span style="font-style: italic">Fullstack London 2017, Coldfront Copenhagen 2017, JSConf Budapest 2017, CSSconf and JSconf EU 2018, Vue London 2018, VueJS Roadtrip Berlin 2018.</span> Naturally, mere conference attendance has no say about actual skill level. But it definitely reflects my unbound curiousity and motivation to keep up with the latest developments in the field.
         </p>
+        <p>Feel free to check out my <a
+            href="/Emre_Karaca_Resume.pdf"
+            target="blank"
+            class="text-link"
+          ><b>more detailed resume</b></a>!</p>
 
       </div>
       <div class="col">
@@ -51,17 +80,45 @@
       <div class="col">
         <h2 class="subtitle">GET IN TOUCH</h2>
         <div class="logo-container">
-          <a href="mailto:hi@emrekaraca.de" target="blank">
-            <img src="@/assets/email.svg" alt="" class="logo">
+          <a
+            href="mailto:hi@emrekaraca.de"
+            target="blank"
+          >
+            <img
+              src="@/assets/email.svg"
+              alt=""
+              class="logo"
+            >
           </a>
-          <a href="https://twitter.com/HiEmreKaraca" target="blank">
-            <img src="@/assets/twitter.svg" alt="" class="logo">
+          <a
+            href="https://twitter.com/HiEmreKaraca"
+            target="blank"
+          >
+            <img
+              src="@/assets/twitter.svg"
+              alt=""
+              class="logo"
+            >
           </a>
-          <a href="https://github.com/emrekaraca" target="blank">
-            <img src="@/assets/github.svg" alt="" class="logo">
+          <a
+            href="https://github.com/emrekaraca"
+            target="blank"
+          >
+            <img
+              src="@/assets/github.svg"
+              alt=""
+              class="logo"
+            >
           </a>
-          <a href="https://www.linkedin.com/in/hiemrekaraca/" target="blank">
-            <img src="@/assets/linkedin.svg" alt="" class="logo last-logo">
+          <a
+            href="https://www.linkedin.com/in/hiemrekaraca/"
+            target="blank"
+          >
+            <img
+              src="@/assets/linkedin.svg"
+              alt=""
+              class="logo last-logo"
+            >
           </a>
         </div>
       </div>
